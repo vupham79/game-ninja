@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            461.81,
+            265.95,
+            0
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            461.81,
+            340.95,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            461.81,
+            265.95,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
